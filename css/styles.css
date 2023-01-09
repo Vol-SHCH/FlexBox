@@ -300,7 +300,7 @@ p {
 .list__item {
     display: flex;
     align-items: center;
-    background: url(/assets/img/main/second_menu/icon_check.jpg) left no-repeat;
+    background: url(../assets/img/main/second_menu/icon_check.jpg) left no-repeat;
 }
 .item__text {
     margin: 0;
